@@ -23,13 +23,13 @@ https://www.raspberrypi.org/software/
 
 ### 2.2.2 Setting low energy Bluetooth on Raspberry Pi
 
-> sudo apt-get install bluez bluez-hcidump
-
-> sudo apt-get install libbluetooth-dev libboost-all-dev cmake git
-
-> git clone https://github.com/edrosten/libblepp
-
 ```
+sudo apt-get install bluez bluez-hcidump
+
+sudo apt-get install libbluetooth-dev libboost-all-dev cmake git
+
+git clone https://github.com/edrosten/libblepp
+
 cd libblepp
 
 ./configure
@@ -43,7 +43,7 @@ move file libble++.so from /usr/local/lib to /usr/lib
 
 ### 2.2.3 Setting ZeroMQ for C++ on Raspberry Pi
 Installing according to the instructions at https://github.com/MonsieurV/ZeroMQ-RPi
-
+```
 cd ..
 
 sudo apt-get install libtool pkg-config build-essential autoconf automake
@@ -79,7 +79,7 @@ sudo ldconfig
 cd /usr/include/
 
 sudo wget https://raw.githubusercontent.com/zeromq/cppzmq/master/zmq.hpp
-
+```
 
 
 ## 2.3 Installation of behavior monitoring program on PC
