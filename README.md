@@ -28,7 +28,8 @@ https://www.raspberrypi.org/software/
 > sudo apt-get install libbluetooth-dev libboost-all-dev cmake git
 
 > git clone https://github.com/edrosten/libblepp
-'''
+
+´´´
 cd libblepp
 
 ./configure
@@ -36,7 +37,7 @@ cd libblepp
 make -j4
 
 sudo make install
-'''
+´´´
 
 move file libble++.so from /usr/local/lib to /usr/lib
 
