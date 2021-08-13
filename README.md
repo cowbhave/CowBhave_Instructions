@@ -29,7 +29,7 @@ https://www.raspberrypi.org/software/
 
 > git clone https://github.com/edrosten/libblepp
 
-´´´
+```
 cd libblepp
 
 ./configure
@@ -37,7 +37,7 @@ cd libblepp
 make -j4
 
 sudo make install
-´´´
+```
 
 move file libble++.so from /usr/local/lib to /usr/lib
 
