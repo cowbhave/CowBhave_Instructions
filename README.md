@@ -13,13 +13,21 @@ Instructions for installation and using the tag behavior system
 
 ## 2.2 Installation of programs on recieving stations Raspberry Pi
 ### 2.2.2 Setting low energy Bluetooth on Raspberry
+
 sudo apt-get install bluez bluez-hcidump
+
 sudo apt-get install libbluetooth-dev libboost-all-dev cmake git
+
 git clone https://github.com/edrosten/libblepp
+
 cd libblepp
+
 ./configure
+
 make -j4
+
 sudo make install
+
 
 move file libble++.so from /usr/local/lib to /usr/lib
 
