@@ -26,3 +26,9 @@ move file libble++.so from /usr/local/lib to /usr/lib
 ## 2.3 Installation of behavior monitoring program on PC
 
 # 3. Preparation of devices and installation in barn
+
+# 4. Examples for cost estimation
+
+### 4.1 Barn with 100 cows
+
+### 4.2 Barn with 20 cows
