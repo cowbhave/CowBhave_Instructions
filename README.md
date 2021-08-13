@@ -23,11 +23,10 @@ https://www.raspberrypi.org/software/
 
 ### 2.2.2 Setting low energy Bluetooth on Raspberry Pi
 
-sudo apt-get install bluez bluez-hcidump
+> sudo apt-get install bluez bluez-hcidump
 
-sudo apt-get install libbluetooth-dev libboost-all-dev cmake git
-
-git clone https://github.com/edrosten/libblepp
+> sudo apt-get install libbluetooth-dev libboost-all-dev cmake git
+> git clone https://github.com/edrosten/libblepp
 
 cd libblepp
 
