@@ -4,6 +4,8 @@ Instructions for installation and using the tag behavior system
 
 [CowBhave_Instructions_List_of_devices_and_materials_v01](CowBhave_Instructions_List_of_devices_and_materials_v01.pdf)
 
+[Examples_for_cost_estimation.xlsx](Examples_for_cost_estimation.xlsx)
+
 # 2. Software installation
 ## 2.1 Installation of firmware on RuuviTags
 Connect the RuuviTag Development Kit to a PC according to the instructions:
