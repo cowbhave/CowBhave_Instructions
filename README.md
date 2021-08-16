@@ -2,7 +2,7 @@ Instructions for installation and using the tag behavior system
 
 # 1. List of devices and materials
 
-[CowBhave_Instructions_List of devices and materials_v01.dpf](readme.md)
+[CowBhave_Instructions_List_of_devices_and_materials_v01](CowBhave_Instructions_List_of_devices_and_materials_v01.pdf)
 
 # 2. Software installation
 ## 2.1 Installation of firmware on RuuviTags
