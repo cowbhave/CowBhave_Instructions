@@ -1,16 +1,8 @@
 Instructions for installation and using the tag behavior system
 
 # 1. List of devices and materials
-|Part|Amount|Price|Link|
-|----|------|-----|----|
-|RuuviTag| 1 or 2 for each animal | ~33.3-40 Euro |https://ruuvi.com/ruuvitag/|
-|Battery for RuuviTag| 1 for 1 tag for 1 year | ~3 Euro |https://ruuvi.com/products/cr2477t-battery/|
-|RuuviTag Development Kit| 1 | ~100 Euro |https://ruuvi.com/products/ruuvitag-development-kit/ https://ruuvi.com/products/business-starter-pack/|
-|Raspberry Pi 3 B+| 3-10 | ~30 Euro | |
-|or||||
-|Raspberry Pi 4| 3-10 | ~60 Euro | |
-|Micro SD >4Gb for Raspberry Pi|1 for 1 Raspberry Pi|~10 Euro||
-|USB power supply for Raspberry Pi|1 for 1 Raspberry Pi|~10 Euro||
+
+CowBhave_Instructions_List of devices and materials_v01.dpf
 
 # 2. Software installation
 ## 2.1 Installation of firmware on RuuviTags
