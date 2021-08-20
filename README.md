@@ -11,3 +11,5 @@ Instructions for installation and using the tag behavior system
 
 # 3. Preparation of devices and installation in barn
 
+
+[https://cowbhave.wordpress.com/contacts/](https://cowbhave.wordpress.com/contacts/)
